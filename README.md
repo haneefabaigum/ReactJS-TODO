@@ -14,4 +14,4 @@ npm run dev
 \`\`\`
 
 ## Live demo
-[your-vercel-url-here]
+[https://reactjs-todo-eta.vercel.app/]
